@@ -9,7 +9,7 @@ Theory:
 The only catch here is that, unlike trees, graphs may contain cycles so that we may come to the same 
 node again. To avoid processing a node more than once, we divide the vertices into two categories:
 1. Visited and 
-2. Not visited. 
+2. Not visited.
 A Boolean visited array is used to mark the visited vertices. For simplicity, it is assumed that all 
 vertices are reachable from the starting vertex. BFS uses a queue data structure for traversal. 
 How does BFS work? 
