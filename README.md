@@ -4,7 +4,7 @@ Breadth First Search Traversal of a Graph
 
 AIM: 
 Theory: 
-To Implement Breadth First Search Traversal of a Graph using Python 3. 
+To Implement Breadth First Search Traversal of a Graph using Python 3.
 
 Breadth-First Traversal (or Search) for a graph is like the Breadth-First Traversal of a tree. 
 The only catch here is that, unlike trees, graphs may contain cycles so that we may come to the same 
